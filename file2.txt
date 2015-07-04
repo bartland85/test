@@ -1,4 +1,8 @@
 czarne jagodki
+<<<<<<< HEAD
 
 blablabla rere
 
+=======
+ojojoj
+>>>>>>> master
